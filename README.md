@@ -30,11 +30,11 @@ This project analyzes the match-level data from the 2022 Indian Premier League (
   
   •	Summarize best bowling figures and top individual batting scores  
 
-##Excel Features & Formulas Used
+## Excel Features & Formulas Used
 
 SUMIFS, COUNTIFS, RIGHT, LEFT, FIND, SORT, PIVOT TABLE
 
-##Key Insights
+## Key Insights
 
   •	Gujarat Titans won the IPL 2022 title in their debut season, showing consistent performance throughout the tournament.
   
