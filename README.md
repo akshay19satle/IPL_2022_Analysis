@@ -4,9 +4,9 @@
 This project analyzes the match-level data from the 2022 Indian Premier League (IPL) season using Microsoft Excel. It highlights winning patterns, team performances, toss decisions, and key players across all matches.
 
 ## Dataset
-1) Source: Raw data file Book_ipl2022_.csv (contains match-by-match statistics)
+Source: Raw data file Book_ipl2022_.csv (contains match-by-match statistics)
 
-2) Columns:
+Columns:
    
 •   Match No, Date, Venue, Teams
 
